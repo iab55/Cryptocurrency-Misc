@@ -6,9 +6,8 @@
 .pnp.js
 
 # testing
-/test/EthSwap.test.js
+test
 /coverage
-/bla
 
 # production
 /build
